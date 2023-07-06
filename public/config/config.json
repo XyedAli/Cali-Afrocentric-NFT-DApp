@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x95d412bdc7e6cb73697e27d016f5c4ad4c4724b3",
+
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x95d412bdc7e6cb73697e27d016f5c4ad4c4724b3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Cali-Afrocentric",
+  "SYMBOL": "CA",
+  "MAX_SUPPLY": 108,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}

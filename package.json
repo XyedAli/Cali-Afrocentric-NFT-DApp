@@ -1,0 +1,41 @@
+{
+  "name": "nft_minting_dapp",
+  "version": "1.0.0",
+  "description": "The project showcases the works of 10 amazing artistes from Africa living in Africa and several in diaspora with each bringing to bear the influences of their various environments and societies. Thematic context varies from rural/ ethnic, urban/ cosmopolitan, pastoral, contemporary, abstract and illusionist Artworks displayed are of some of the very highest standards created via different media such as oil, wax, wood, brass, combs, plastic, rocks, cowries, coins and other metal works etc. Cali-Afrocentric also has an educational arm which teaches a wide range of individuals from little kids, grade school students, high school students, under graduate and beyond.",
+  "private": true,
+  "dependencies": {
+    "@iconify/react": "^3.2.2",
+    "aos": "^2.3.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^6.3.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0",
+    "swiper": "^6.8.4",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.5.1",
+    "web3-eth-contract": "^1.5.2"
+  },
+  "author": "Syed Muhammad Ali",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
